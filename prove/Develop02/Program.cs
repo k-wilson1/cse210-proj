@@ -2,6 +2,9 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 
+// For my creativity I added a count feature that will count how many 
+//entries you saved and when you load, how many entries are in the txt file.
+
 int choice = 0;
 Journal journal = new Journal();
 
