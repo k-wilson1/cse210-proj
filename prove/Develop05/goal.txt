@@ -1,0 +1,4 @@
+193
+EternalGoal|   Read the scriptures|Read for 10 minutes|20|False
+SimpleGoal|Just|do it|10|True
+ChecklistGoal|Exercise|10 minute workout|11|False|500|5|4

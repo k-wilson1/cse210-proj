@@ -1,9 +1,14 @@
 using System;
-
+//Stretch challenge, I added a 
+//*******Congratulations message to 
+//earning the bonus for the checklist goals
+using System.Collections.Generic;
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop05 World!");
+        GoalManager goalManager = new GoalManager();
+        goalManager.Start();
+
     }
 }
